@@ -1,0 +1,23 @@
+body{
+  
+    background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+
+}
+
+h1{
+    margin-top: 50px !important;
+    background-color: white;
+    border-radius: 5px;
+    font-weight: bolder !important;
+    padding: 10px;
+    
+}
+img{
+    height: 500px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.typed-cursor.typed-cursor--blink{
+    display: none;
+}
